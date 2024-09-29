@@ -1,3 +1,3 @@
-# SDGP DUMMY sWebsite
+# SDGP DUMMY Website
 
 NOT THE CORRECT ONE.
